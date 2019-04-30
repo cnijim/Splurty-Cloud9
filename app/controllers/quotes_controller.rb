@@ -15,6 +15,8 @@ class QuotesController < ApplicationController
         redirect_to quotes_path
     end
 
+    def about
+    end
 
     private
 
